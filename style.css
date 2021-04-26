@@ -1,0 +1,23 @@
+#body {
+  background-color: #1a1a1a;
+}
+
+#h01 {
+  color: #ff8080;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#p01 {
+  color: #ffe6e6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.headings {
+  color: #ffb3b3;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.texts {
+  color: #ffe6e6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
