@@ -26,12 +26,3 @@
   color: #ffe6e6;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-.table, th, td {
-  color: #ffe6e6;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  border: 1px solid #ffe6e6;
-  border-collapse: collapse;
-  padding: 5px;
-  width: 50%;
-}
